@@ -18,15 +18,34 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <!-- AI / Tools -->
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <!-- Java -->
+  <a href="https://dev.java" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <!-- Python -->
+  <a href="https://github.com/python" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <!-- Generative AI -->
+  <a href="https://github.com/topics/generative-ai" target="_blank">
+    <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  </a>
+  <!-- Git -->
+  <a href="https://github.com/git/git" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <!-- VS Code -->
+  <a href="https://github.com/microsoft/vscode" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
 </p>
 
 ---
